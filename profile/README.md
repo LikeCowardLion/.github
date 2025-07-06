@@ -10,7 +10,7 @@
 
 |👧🏼 Kim Yerin 👧🏼|🐶 Kim Nahyeon 🐶|🤖 Park Sojung 🤖|🦁 Hwang Sangbin 🦁|
 |:-:|:-:|:-:|:-:|
-|<img src="https://github.com/user-attachments/assets/c78a57ea-5f0f-4967-9d27-fe20126f7672" width="170" />|<img src="https://via.placeholder.com/150" />|<img src="https://via.placeholder.com/150" />|<img src="https://via.placeholder.com/150" />|
+|<img src="https://github.com/user-attachments/assets/667fdf63-9e73-4f06-b769-454cf2d5bdfd" width="170" />|<img src="https://github.com/user-attachments/assets/18a6540f-7afa-41e7-890d-e8a56bb4a6c0" width="170" />|<img src="https://github.com/user-attachments/assets/47b8b1df-1c68-49b1-871d-a55f0af0b969" width="170" />|<img src="https://github.com/user-attachments/assets/0ce31f27-8183-44b7-aec8-6f44ebe95aaa" width="170" />|
 |[@niireymik](https://github.com/niireymik)|[@bluewing0303](https://github.com/bluewing0303)|[@sojung102](https://github.com/sojung102)|[@HwangSangBin](https://github.com/HwangSangBin)|
 |Back-End, Unity|Front-End, Unity|Front-End, Unity|AI|
 
@@ -21,7 +21,7 @@
 **MyMedi**는  
 **스마트 디바이스**를 활용한 **근력·유연성 측정**과  
 맞춤형 **3D 콘텐츠 제공**을 통해  
-**근력 증진 도와주는 플랫폼**입니다 💪
+**근력 증진을 도와주는 플랫폼**입니다 💪
 
 > 📌 프로젝트는 개발 중이며, 지속적으로 업데이트되고 있습니다 :>
 
